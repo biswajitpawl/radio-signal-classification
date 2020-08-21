@@ -1,5 +1,7 @@
 # Classify radio signals from space using Keras
 
+## Introduction
+
 Back in 2017, SETI institute announced a hackathon -
 "Machine Learning for the Search for Extraterrestrial Intelligence Hackathon & Code Challenge".
 
@@ -20,10 +22,10 @@ For this experiment, we have used the basic dataset which has:
 
 We develop a simple convolutional neural network in Keras, and see how it performs on the data.
 
-Reference:
-https://www.seti.org/machine-learning-search-extraterrestrial-intelligence-hackathon-code-challenge
+## Reference
 
-Paper: https://arxiv.org/pdf/1803.08624.pdf
+[1] https://www.seti.org/machine-learning-search-extraterrestrial-intelligence-hackathon-code-challenge
+[2] https://arxiv.org/pdf/1803.08624.pdf
 
 Project: based on Coursera
 
