@@ -22,12 +22,14 @@ For this experiment, we have used the basic dataset which has:
 
 We develop a simple convolutional neural network in Keras, and see how it performs on the data.
 
+Project: based on Coursera
+
 ## Reference
 
 [1] https://www.seti.org/machine-learning-search-extraterrestrial-intelligence-hackathon-code-challenge
+
 [2] https://arxiv.org/pdf/1803.08624.pdf
 
-Project: based on Coursera
 
 ## License
 
